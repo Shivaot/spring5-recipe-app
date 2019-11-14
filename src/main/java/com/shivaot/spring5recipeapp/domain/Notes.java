@@ -1,7 +1,5 @@
 package com.shivaot.spring5recipeapp.domain;
 
-import org.springframework.data.annotation.Id;
-
 import javax.persistence.*;
 
 @Entity
